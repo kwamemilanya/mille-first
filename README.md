@@ -1,6 +1,6 @@
 # mille-first
-#### {first time creating}, {2021}
-#### By **{Kwame Milanya}**
+#### First time creating, 2021
+#### By **Kwame Milanya**
 ## Description
 This is a detailed description of Me. 
 ## Setup/Installation Requirements
